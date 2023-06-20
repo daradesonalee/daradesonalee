@@ -1,0 +1,3 @@
+base_url: "https://prod.petstore.swagger.io.prod/v2/pet/"
+user_name: "test1"
+pass: "pass"
